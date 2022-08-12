@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @hudafxrooqui, a Bsc Computer Science Student
 - 👀 I’m interested in CyberSecurity and Web Programming
 - 🌱 I’m currently learning React.Js 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on a React.Js Project, currently making a Muslim Prayer App using API's
 - 📫 How to reach me > LinkedIn-https://www.linkedin.com/in/huda-farooqui-4a099b228/
-                       Instagram-huda.fxrooqui
+- 📫 Instagram-huda.fxrooqui
 
 <!---
 hudafxrooqui/hudafxrooqui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
