@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hudafxrooqui, a Bsc Computer Science Student
+- 👋 Hi, I’m @hudafxrooqui, a Bsc Computer Science Student at Queen Mary
 - 👀 I’m interested in CyberSecurity and Web Programming
 - 🌱 I’m currently learning React.Js 
 - 💞️ I’m looking to collaborate on a React.Js Project, currently making a Muslim Prayer App using API's
