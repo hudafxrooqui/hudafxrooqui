@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hudafxrooqui, a Bsc Computer Science Student at Queen Mary
-- 👀 I’m interested in CyberSecurity and Web Programming
-- 💞️ I’m looking to collaborate on a React.Js Project, currently making a Muslim Prayer App using API's
+- 👀 I’m interested in CyberSecurity and Cloud Computing
 - 📫 How to reach me > LinkedIn-https://www.linkedin.com/in/huda-farooqui-4a099b228/
 - 📫 Instagram-huda.fxrooqui
 
